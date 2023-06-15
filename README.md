@@ -4,3 +4,7 @@ The project aims to showcase the power and versatility of Tableau as a tool for 
 basic charts
 Military Expenses Dashboard
 cocaine
+
+Tableau public 
+profile link :  https://public.tableau.com/app/profile/savaram.pokhran.royal
+you can view some of my dashboards in the profile.
